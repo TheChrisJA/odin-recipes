@@ -1,0 +1,22 @@
+/** styles.css **/
+h1{
+  background-color: red;
+  color: white;
+  font-family: cursive, sans-serif;
+}
+h2{
+  color: blue;
+  font-family: cursive;
+}
+p{
+  color: blue;
+  font-family: cursive;
+}
+h3{
+  color: green;
+  font-family: fantasy;
+}
+li{
+  color: orange;
+  font-family: fantasy;
+}
